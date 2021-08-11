@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fernandaputra21
 - 👀 I’m interested in physics, astronomy, and machine learning
-- 🌱 I’m currently learning physics, astrophysics, machine learning, and web design
+- 🌱 I’m currently learning physics, astrophysics, and has been studying python programming
 - 💞️ I’m looking to collaborate on data processing or machine learning especially for astrophysics
 - 📫 How to reach me ...
 
